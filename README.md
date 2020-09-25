@@ -1,2 +1,2 @@
-# web1
-create_web_public
+# theofto_blog
+create_blog of theofto
