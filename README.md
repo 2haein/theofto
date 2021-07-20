@@ -1,2 +1,2 @@
-# theofto_blog
-create_blog of theofto
+# theofto
+create_resume image of theofto
