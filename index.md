@@ -5,7 +5,7 @@ layout: default
 
 **Backend Developer**
 
-깃허브 Link: [https://github.com/2haein](https://github.com/2haein)
+#### 깃허브 Link: [https://github.com/2haein](https://github.com/2haein)
 
 📃 [https://developier.com](https://developier.com)
 
@@ -62,7 +62,9 @@ TOEIC 2020.9.13 (ETS기관)
 
 한자능력검정3급 취득 (대한검정회)
 
-해외유학생 영어안내역할 수행(중앙대 Ambassador)  
+해외유학생 영어안내역할 수행(중앙대 Ambassador)
+
+---
 
 ## **경력**
 
@@ -115,7 +117,7 @@ Web + Mobile(안드로이드) 개발 및 연동
 
 `R`  
 
-
+---
 ## **인턴 경력**
 
 ---
@@ -146,6 +148,7 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 
 `Android(Java), Spring(Java, JavaScript, Css)`  
 
+---
 ## **자기계발**
 
 ---
@@ -158,10 +161,11 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 - 위치 기반 베이커리 서비스 (신규 빵집 가게 위치 연동 및 메뉴 등록, DB 스키마 구성)
 
   👉[프로젝트 성과 링크](https://depromeet.com/project/21)  
-  
+
+---
 ## **Project**
 
---
+---
 
 ### **감정을 위로해 - SW 중심대학 중앙대 캡스톤 프로젝트 (1)**
 
@@ -182,11 +186,11 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 
 본 서비스의 주요 기능은 4가지로 요약할 수 있습니다. 첫째 심부름을 보내는 것을 기록하기, 둘째 심부름 보낼 때 자동으로 퀘스트 부여하기, 셋째 위험요소를 제외한 아이의 심부름 경로 추천하기, 마지막으로 시민들이 위험 지역을 신고하여 같이 만드는 안전지도입니다. 이러한 기능을 바탕으로 부모/시민 모드와 아이 모드를 하나의 앱으로 구현하였습니다.
 
-- **기술스택** | Android(Java), SpringBoot, MongoDB(NoSQL DB), AWS Cloud, Github
+**기술스택** | Android(Java), SpringBoot, MongoDB(NoSQL DB), AWS Cloud, Github
 
 👉[프로젝트 성과 링크](https://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=&wr_id=147)  
 
-
+---
 ## **Tech Skills**
 
 ---
@@ -209,7 +213,7 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 
 - Jira/Conflunce  
 
-
+---
 ## **자기소개**
 
 ---
