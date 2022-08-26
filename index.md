@@ -4,14 +4,10 @@ layout: default
 # 이해인 (Haein Lee)
 
 **Backend Developer**
-
-##### **깃허브 Link: [https://github.com/2haein](https://github.com/2haein)**
-##### **📃 [https://developier.com](https://developier.com)**
-##### **📃 [https://zerocodings.com](https://zerocodings.com)**
-##### **🎂 1996.08.16**
-##### **📱 010-xxxx-xxxx**
-##### **📩 eehaein2@gmail.com**   
-##### **🏠 서울 강남구**
+##### **깃허브(Github) [https://github.com/2haein](https://github.com/2haein)**
+##### **📃 [https://developier.com](https://developier.com)**&nbsp;&nbsp; &nbsp; &nbsp;   **📃 [https://zerocodings.com](https://zerocodings.com)**
+##### **🎂 1996.08.16**&nbsp; &nbsp; &nbsp; &nbsp;  **📱 010-xxxx-xxxx**
+##### **📩 eehaein2@gmail.com** &nbsp; &nbsp;&nbsp;&nbsp; **🏠 서울 강남구**
 
 ---
 
@@ -19,8 +15,9 @@ layout: default
 
 2년차 개발자로 온라인 E-Commerce 스타트업에서 개발자로 커리어를 시작하여 베타버전때부터 서비스 출시를 함께하여 개발 전과정의 Process에 대한 이해도를 높였고 현재 백엔드 Server 개발에 정진하고 있습니다.
 
----
+<br/>
 
+---
 ## **Profile**
 
 ---
@@ -31,7 +28,7 @@ layout: default
 
 - 컴퓨터공학부 전공 (Computer Science and Engineering)
 - 2017.03 - 2023.02
-- GPA ( 3.9 / 4.5 )
+- GPA ( 3.94 / 4.5 )
 
 ### **교육 이력**
 
@@ -58,8 +55,9 @@ TOEIC 2020.9.13 (ETS기관)
 
 해외유학생 영어안내역할 수행(중앙대 Ambassador)
 
----
+<br/>
 
+---
 ## **경력**
 
 ---
@@ -111,6 +109,8 @@ Web + Mobile(안드로이드) 개발 및 연동
 
 `R`  
 
+<br/>
+
 ---
 ## **인턴 경력**
 
@@ -155,6 +155,8 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 - 위치 기반 베이커리 서비스 (신규 빵집 가게 위치 연동 및 메뉴 등록, DB 스키마 구성)
 
   👉[프로젝트 성과 링크](https://depromeet.com/project/21)  
+
+<br/>
 
 ---
 ## **Project**
