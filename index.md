@@ -6,16 +6,13 @@ layout: default
 **Backend Developer**
 ##### **깃허브(Github) [https://github.com/2haein](https://github.com/2haein)**
 ##### **📃 [https://developier.com](https://developier.com)**&nbsp;&nbsp; &nbsp; &nbsp;   **📃 [https://zerocodings.com](https://zerocodings.com)**
-##### **🎂 1996.08.16**&nbsp; &nbsp; &nbsp; &nbsp;  **📱 010-xxxx-xxxx**
-##### **📩 eehaein2@gmail.com** &nbsp; &nbsp;&nbsp;&nbsp; **🏠 서울 강남구**
+##### **🎂 1996.08.16**&nbsp; &nbsp; &nbsp; &nbsp;  **📱 010-xxxx-xxxx** &nbsp;&nbsp;&nbsp;&nbsp;**📩 eehaein2@gmail.com** &nbsp; &nbsp;&nbsp;&nbsp; **🏠 서울 강남구**
 
 ---
 
 #### **안녕하세요. IT 서비스를 만드는 이해인입니다.**
 
 2년차 개발자로 온라인 E-Commerce 스타트업에서 개발자로 커리어를 시작하여 베타버전때부터 서비스 출시를 함께하여 개발 전과정의 Process에 대한 이해도를 높였고 현재 백엔드 Server 개발에 정진하고 있습니다.
-
-<br/>
 
 ---
 ## **Profile**
@@ -210,7 +207,7 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 - Jira/Conflunce  
 
 ---
-## **자기소개**
+#### **소개**
 
 ---
 
