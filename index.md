@@ -12,7 +12,7 @@ layout: default
 
 #### **안녕하세요. IT 서비스를 만드는 이해인입니다.**
 
-2년차 개발자로 온라인 E-Commerce 스타트업에서 개발자로 커리어를 시작하여 베타버전때부터 서비스 출시를 함께하여 개발 전과정의 Process에 대한 이해도를 높였고 현재 백엔드 Server 개발에 정진하고 있습니다.
+2년차 개발자로 E-Commerce 스타트업에서 개발자로 커리어를 시작하여 베타버전때부터 서비스 출시를 함께하여 개발 전과정의 Process에 대한 이해도를 높였고 현재 백엔드 Server 개발에 정진하고 있습니다.
 
 ---
 ## **Profile**
@@ -164,9 +164,8 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 
 자신의 감정을 기록하고 자신의 위치를 이용해 주변 지역 사람들과 감정을 공유하여 서로 공감하고 위로받을 수 있는 앱 기반의 플랫폼 서비스입니다.
 
-![image1.png](assets/image1.png)
-
-![image2.png](assets/image2.png)
+<img src="assets/image1.png" width="47%">
+<img src="assets/image2.png" width="50%">  
 
 **기술스택** | Android(Java), SpringBoot, MongoDB(NoSQL DB), AWS Cloud, Github
 
