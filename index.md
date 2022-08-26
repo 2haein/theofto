@@ -1,10 +1,5 @@
 ---
-layout: post
-title: "Resume"
-subtitle: "Experience"
-date: 2022-08-26 17:00
-background: 
-tag:
+layout: default
 ---
 # 이해인 (Haein Lee)
 
