@@ -1,7 +1,4 @@
 ---
-layout: default
----
----
 layout: post
 title: "Resume"
 subtitle: "Experience"
@@ -33,7 +30,7 @@ tag:
 
 2년차 개발자로 온라인 E-Commerce 스타트업에서 개발자로 커리어를 시작하여 베타버전때부터 서비스 출시를 함께하여 개발 전과정의 Process에 대한 이해도를 높였고 현재 백엔드 Server 개발에 정진하고 있습니다.
 
-### Profile
+## Profile
 
 ![line.png](assets/line.png)
 
@@ -65,7 +62,7 @@ tag:
 
 ### 활동
 
-![image1.png](assets/image1.png)
+![image4.png](assets/image4.png)
 
 ### 외국어
 
@@ -75,9 +72,9 @@ TOEIC 2020.9.13 (ETS기관)
 
 한자능력검정3급 취득 (대한검정회)
 
-해외유학생 영어안내역할 수행(중앙대 Ambassador)
+해외유학생 영어안내역할 수행(중앙대 Ambassador)  
 
-### 경력
+## 경력
 
 ![line.png](assets/line.png)
 
@@ -95,7 +92,8 @@ TOEIC 2020.9.13 (ETS기관)
 
 `SpringBoot, Vue, Angular(약간), HTML, Css3, Webpack, Mysql, Nosql(Mongo)`
 
-`Git(BitBucket), Robo3T, NoSqlBooster, Jira(Agile 일주일 작업 단위 관리), Confluence(개발 내용 문서화)`
+`Git(BitBucket), Robo3T, NoSqlBooster, Jira(Agile 일주일 작업 단위 관리), Confluence(개발 내용 문서화)`  
+
 
 ### **㈜ 선도소프트 2019.01.02 ~ 2019.09.21 (산업기능요원)**
 
@@ -125,9 +123,10 @@ Web + Mobile(안드로이드) 개발 및 연동
 
 빅데이터에서 필요한 데이터를 추출하여 테이블 형식으로 재가공
 
-`R`
+`R`  
 
-### 인턴 경력
+
+## 인턴 경력
 
 ![line.png](assets/line.png)
 
@@ -155,9 +154,9 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 (국)표준과학연구원에서 수주받은 프로젝트로 산업단지내의 유해대기오염을 시각적으로 보여주기위한 오염분포를 보여주기위해 모바일 어플리케이션으로 개발을 진행
 해당 오염수치가 일정수치 이상일 경우에 웹과 연동된 모바일 어플을 통해 경고알람을 표출  
 
-`Android(Java), Spring(Java, JavaScript, Css)`
+`Android(Java), Spring(Java, JavaScript, Css)`  
 
-### 자기계발
+## 자기계발
 
 ![line.png](assets/line.png)
 
@@ -168,24 +167,25 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 - Backend 개발 (Spring Boot),
 - 위치 기반 베이커리 서비스 (신규 빵집 가게 위치 연동 및 메뉴 등록, DB 스키마 구성)
 
-  👉[프로젝트 성과 링크](https://depromeet.com/project/21)
+  👉[프로젝트 성과 링크](https://depromeet.com/project/21)  
+  
+## Project
 
-### Project
-
-![%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20(Haein%20Lee)%200203c69e5cbd412486c7e244f1cd076c/Line_1_(1).png](%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20(Haein%20Lee)%200203c69e5cbd412486c7e244f1cd076c/Line_1_(1).png)
+![line.png](assets/line.png)
 
 ### 감정을 위로해 - SW 중심대학 중앙대 캡스톤 프로젝트 (1)
 
 자신의 감정을 기록하고 자신의 위치를 이용해 주변 지역 사람들과 감정을 공유하여 서로 공감하고 위로받을 수 있는 앱 기반의 플랫폼 서비스입니다.
 
-![Untitled](%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20(Haein%20Lee)%200203c69e5cbd412486c7e244f1cd076c/Untitled%201.png)
+![image1.png](assets/image1.png)
 
-![Untitled](%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20(Haein%20Lee)%200203c69e5cbd412486c7e244f1cd076c/Untitled%202.png)
+![image2.png](assets/image2.png)
 
 - **기술스택** | Android(Java), SpringBoot, MongoDB(NoSQL DB), AWS Cloud, Github
 
-![Untitled](%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20(Haein%20Lee)%200203c69e5cbd412486c7e244f1cd076c/Untitled%203.png)
-
+![image1.png](assets/image3.png)  
+  
+  
 ### 우리아이 심부름을 부탁해 - SW 중심대학 중앙대 캡스톤 프로젝트 (2)
 
 아이가 심부름을 나갈 때 부모님들의 걱정은 다양합니다. 본 서비스에서 고려한 위험 요소들은 다음과 같습니다. 정부에서 제공하는 공공데이터 api와 시민들의 위험요소 신고로 이루어져 정부에서 제공하는 데이터를 점차 확대해 나가 시민들이 모두 함께 참여하는 공공데이터로 확장할 수 있습니다.
@@ -194,46 +194,34 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 
 - **기술스택** | Android(Java), SpringBoot, MongoDB(NoSQL DB), AWS Cloud, Github
 
-👉[프로젝트 성과 링크](https://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=&wr_id=147)
+👉[프로젝트 성과 링크](https://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=&wr_id=147)  
 
-# Tech Skills
 
+## Tech Skills
 ![line.png](assets/line.png)
-
-역량의 전문성에 따라 **상 · 중 · 하** 수준으로 분류하였습니다. 
-
-![line.png](assets/line.png)
-
-상
 
 - Java(Spring, Android)
-    
-    
+
 - JavaScript(Vue), Css3
+
 - Python
 
-**Soft Skills**
-
 - AWS (EC2/S3/Route53)
-    
-    내외부 파트너 협업
-    
-    외부 업체 핸들링 
-    
+
 - Docker
+
 - C, C++
 
 **Tools**
 
 - Git
-    
-    GA 세그먼트 / 커스터마이징 / 보고서 자동화
-    
-- Jira/Conflunce
 
-### 자기소개
+- Jira/Conflunce  
 
-![%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20(Haein%20Lee)%200203c69e5cbd412486c7e244f1cd076c/Line_1_(1).png](%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20(Haein%20Lee)%200203c69e5cbd412486c7e244f1cd076c/Line_1_(1).png)
+
+## 자기소개
+
+![line.png](assets/line.png)
 
 ### **E-Commerce 스타트업 개발업무를 통한 실무경험소유**
 
