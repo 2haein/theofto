@@ -164,8 +164,8 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 
 자신의 감정을 기록하고 자신의 위치를 이용해 주변 지역 사람들과 감정을 공유하여 서로 공감하고 위로받을 수 있는 앱 기반의 플랫폼 서비스입니다.
 
-<img src="assets/image1.png" width="47%">
-<img src="assets/image2.png" width="50%">  
+<img src="assets/image1.png" width="170px">
+<img src="assets/image2.png" width="180px">  
 
 **기술스택** | Android(Java), SpringBoot, MongoDB(NoSQL DB), AWS Cloud, Github
 
