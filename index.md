@@ -151,7 +151,7 @@ RDP 프로토콜을 이용한 원격 접속 프로그램으로 사용자가 사�
 - Backend 개발 (Spring Boot),
 - 위치 기반 베이커리 서비스 (신규 빵집 가게 위치 연동 및 메뉴 등록, DB 스키마 구성)
 
-  👉[프로젝트 성과 링크](https://depromeet.com/project/21)  
+  👉[프로젝트 성과 링크](https://depromeet.com/project/대동빵지도)  
 
 <br/>
 
