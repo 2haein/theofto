@@ -5,7 +5,8 @@ layout: default
 
 **Backend Developer**
 ##### **깃허브(Github) [https://github.com/2haein](https://github.com/2haein)**
-##### **📃 [https://developier.com](https://developier.com)**&nbsp;&nbsp; &nbsp; &nbsp;   **📃 [https://zerocodings.com](https://zerocodings.com)**
+##### **📃 [https://developier.com](https://developier.com)**&nbsp;&nbsp; &nbsp; &nbsp;   
+##### **📃 [https://zerocodings.com](https://zerocodings.com)**
 ##### **🎂 1996.08.16**&nbsp; &nbsp; &nbsp; &nbsp;  **📱 010-xxxx-xxxx** &nbsp;&nbsp;&nbsp;&nbsp;**📩 eehaein2@gmail.com** &nbsp; &nbsp;&nbsp;&nbsp; **🏠 서울 강남구**
 
 ---
