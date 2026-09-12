@@ -82,7 +82,11 @@ ADsP 자격증 (2024.03.22 취득) (한국데이터산업진흥원 / ADsP-040008
 
 WEB과 APP 개발 및 배포 관리 (Java, Obj-C, Javascript, React)
 
-JENKINS를 통한 웹 및 앱 CI/CD 배포 자동화 PipeLine 개발 및 소나큐브(SonarQube) 도입 후 PipeLine 내 빌드 후 코드 정적 분석 연동
+JENKINS를 통한 웹 및 앱 CI/CD 배포 자동화 PipeLine 개발 및 소나큐브(SonarQube) 도입 후 PipeLine 내 코드 정적 분석 자동화 연동
+
+배포 Pipeline 내 깃훅 설정을 통해 풀 리퀘스트 자동 검증 및 수정된 코드 파일 내 컨벤션 룰 검증 설정 개발 
+(대규모 프로젝트 개발의 통합품질관리를 위한 신규 파일에 대한 주석 포맷 및 커밋 형식 검증)
+
 
 - **대규모 금융 클라우드 이관 및 DB 마이그레이션 수행**
 
