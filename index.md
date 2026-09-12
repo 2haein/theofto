@@ -76,11 +76,11 @@ ADsP 자격증 (2024.03.22 취득) (한국데이터산업진흥원 / ADsP-040008
 
 ### **㈜ 코스콤(한국증권전산) 2023.07.17 ~ 현재 (서버 개발자)**
 
-- **증권사 플랫폼 서버 개발 및 WEB & APP 개발을 담당하고 CI/CD 자동화 파이프라인 구축 및 개선**
+- **증권사 플랫폼 서버 개발 및 WEB & APP(iOS, AOS) 개발을 담당하고 CI/CD 자동화 파이프라인 구축 및 개선**
 
 국내 및 해외 증권사 플랫폼 서버 개발 (C, Spring Boot)
 
-WEB과 APP 개발 및 배포 관리 (Java, Obj-C, Javascript, React)
+WEB과 APP 개발 및 배포, 운영 관리 (Java, Obj-C, Javascript, React)
 
 JENKINS를 통한 웹 및 앱 CI/CD 배포 자동화 PipeLine 개발 및 소나큐브(SonarQube) 도입 후 PipeLine 내 코드 정적 분석 자동화 연동
 
